@@ -4,6 +4,12 @@ description: Learn how to write the TOML configuration used for character sheets
 
 # Configuring Your System
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 The PbtA system is built so that you can configure your character sheets to have custom stats, attributes, details, moves, and equipment. All characters share the same basic character sheet structure, which needs to be created by the GM using the system's settings.
 
 ## Configuring your sheet
