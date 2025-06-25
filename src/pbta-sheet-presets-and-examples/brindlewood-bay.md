@@ -1,5 +1,11 @@
 # Brindlewood Bay
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 This character sheet preset is based on the [Brindlewood Bay](https://www.gauntlet-rpg.com/brindlewood-bay.html) RPG by Jason Cordova.
 
 ```toml

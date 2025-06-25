@@ -1,5 +1,11 @@
 # Apocalypse World
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 This preset is based on the [_Apocalypse World_](http://apocalypse-world.com/) rules written by D. Vincent Baker and Meguey Baker, published by Lumpley Games.
 
 ![](<../.gitbook/assets/image (7).png>)

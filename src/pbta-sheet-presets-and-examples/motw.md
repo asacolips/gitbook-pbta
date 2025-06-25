@@ -1,5 +1,11 @@
 # Monster of the Week
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 This character sheet preset is based on the [Monster of the Week](https://www.evilhat.com/home/monster-of-the-week/) rules written by Michael Sands and published by Evil Hat Productions.
 
 ![](<../.gitbook/assets/image (10).png>)

@@ -1,5 +1,11 @@
 # Masks
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 This preset is based on the [_Masks_](https://www.magpiegames.com/masks/) rules written by Brendan Conway and published by Magpie Games. It uses the [Creative Commons 4.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ![](<../.gitbook/assets/image (1).png>)

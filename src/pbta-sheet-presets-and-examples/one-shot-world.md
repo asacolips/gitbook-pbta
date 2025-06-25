@@ -1,5 +1,11 @@
 # One Shot World
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 [One Shot World](https://yochaigal.itch.io/oneshotworld) is written by Yochai Gal and uses the [Creative Commons 4.0](https://creativecommons.org/licenses/by/4.0/) license.
 
 ![](../.gitbook/assets/image.png)

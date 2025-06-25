@@ -1,5 +1,11 @@
 # Rovers
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 This preset is based on the _Rovers_ rules written by Catherine Ramen and published by Aviatrix Games. It uses the [Creative Commons 3.0 license](https://creativecommons.org/licenses/by/4.0/).
 
 ![](<../.gitbook/assets/image (9).png>)
