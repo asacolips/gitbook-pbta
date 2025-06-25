@@ -1,5 +1,11 @@
 # A Complete Example
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 Based on the previous sections, here's a complete example of a sheet configuration for the PbtA system.
 
 ```
