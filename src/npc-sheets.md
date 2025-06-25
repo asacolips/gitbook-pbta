@@ -1,6 +1,10 @@
 # NPC Sheets
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
 
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
 
 NPC sheets are defined under the `[npc]` group in your sheet configuration and have 3 required options/groups. They each function identically to their counterparts in [character sheet](character-sheets.md).
 
