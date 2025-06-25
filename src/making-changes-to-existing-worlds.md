@@ -1,5 +1,11 @@
 # Making Changes to Existing Worlds
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 If you have to make changes to your system's sheet settings after you've already created actors and NPCs, you can return to the PbtA Sheet Configuration settings and make the changes that you need.
 
 {% hint style="danger" %}
