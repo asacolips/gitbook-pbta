@@ -1,9 +1,15 @@
 # Character Sheets
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 Character sheets are defined under the `[character]` group in your sheet configuration and have 4 required options/groups, and one optional group:
 
 * **stats** - This group defines character stats (such as ability scores in Dungeon World). Rolls will be made using these stats.
-* **attributesTop** - Attributes in the attributesTop group are displayed directly below the stats in character sheets.&#x20;
+* **attributesTop** - Attributes in the attributesTop group are displayed directly below the stats in character sheets.
 * **attributesLeft** - Attributes in the attributesLeft group are displayed directly to the left of the moves list in character sheets.
 * **moveTypes** - This group defines the groups/separators that will appear in the moves tab of character sheets. Examples include "Basic", "Advanced", "Spells", and "Class Moves".
 * **equipmentTypes** - This group defines the groups/separators that will appear in the equipment tab of character sheets. Examples include "Gear" and "Loot".
@@ -12,7 +18,7 @@ Character sheets are defined under the `[character]` group in your sheet configu
 ![](<.gitbook/assets/image (6).png>)
 
 {% hint style="warning" %}
-#### A Note About Group Prefixing
+**A Note About Group Prefixing**
 
 Each of the options listed on this page are subgroups in the character group, which means they need to be entered using a format such as `[character.stats]` rather than just `[stats]`
 
@@ -43,7 +49,7 @@ Attributes are used in the PbtA system to track things that are not stats or mov
 This system supports two sets of attributes: **attributesLeft** and **attributesTop**. The two different groups of attributes behave identically; the only difference is that attributesTop is displayed as a row at the top of the sheet directly below the Stats, while attributesLeft is displayed in a column to the left side of the Moves section of the sheet. Some attribute types may work better in one group or the other, for instance, a `ListMany` attribute type would work better in the attributesLeft group if it has more than 5 or so options due to the extra height created by the list options.
 
 {% hint style="info" %}
-#### Referencing attributes in rolls and macros
+**Referencing attributes in rolls and macros**
 
 If you're trying to reference an attribute in something like an inline roll, then the attribute groups will need to be accessed using the shorthand `attrLeft` or `attrTop`. For instance, the following could work:
 
@@ -113,8 +119,8 @@ Assigning an attribute to a character should look similar to the following:
 
 ```
 
-
 ### Playbook Property
+
 `playbook` is an optional attribute property which makes a property to only be displayed if an actor has the chosen playbook. It accepts either the Playbook's name or its slug.
 
 ```
@@ -138,6 +144,7 @@ Each move type should be entered as a single string value.
 ```
 
 ### Advanced moveTypes
+
 `moveTypes` can be created as objects and accept the following properties:
 
 * **label** - The display name of the move type.
