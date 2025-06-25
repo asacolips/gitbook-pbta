@@ -1,5 +1,11 @@
 # Getting Started
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 The **Powered by the Apocalypse** (PbtA) system for Foundry VTT is a generic system that is built as a framework to allow you to build out character sheets for _most_ systems that would be considered PbtA, assuming they include playbooks, character advancement, and a 2d6 (or similar, such as 2d10 or d6+d8) core mechanic that revolves around ranges of success.
 
 This guide will help you configure the system so that you can run campaigns in your preferred setup. Generally, you should only have to complete the steps in this guide once when creating a new world.
