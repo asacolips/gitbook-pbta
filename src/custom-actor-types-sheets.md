@@ -1,5 +1,11 @@
 # Custom Actor Types/Sheets
 
+{% hint style="danger" %}
+### THIS DOCUMENTATION IS NO LONGER USED
+
+Go to [https://github.com/asacolips-projects/pbta/wiki/#getting-started](https://github.com/asacolips-projects/pbta/wiki/#getting-started) for the most current version of the documentation.
+{% endhint %}
+
 As of the 0.2.0 version of the PbtA system, you can now make custom actor types in addition to characters and NPCs.
 
 To define a custom actor type, you use the same structure as either characters or npcs, but you use your custom actor type name instead of character or npc in all of your properties. In addition, there's an optional baseType property on custom actor types to choose whether it should use the character sheet as its base (meaning a wider layout and with support for stats) or the npc sheet.
